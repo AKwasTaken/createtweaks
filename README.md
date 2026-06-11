@@ -59,7 +59,7 @@ The availability of this datapack is tied directly to the specific versions of t
 * 26.1.2 (via Create Fly)
 * 1.21.11 (via Create Fly)
 * 1.21.10 (via Create Fly)
-* 1.21.8 (via Official Create Mod)
+* 1.21.8 (via Create Fly)
 
 ### Legacy Version Support
 While these are the officially provided builds, earlier versions of the original Create Mod are structurally compatible. The datapack can be manually ported to older versions by adjusting the metadata and recipe formats according to the specifications outlined in the repository wiki.
