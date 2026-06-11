@@ -51,6 +51,19 @@ This datapack includes crafting recipes for the following Create mod materials:
 4. Drop the `createtweaks` folder there.
 5. In-game, run the command `/reload` to apply the datapack.
 
+## Supported Versions
+
+The availability of this datapack is tied directly to the specific versions of the base mod available on the platform. Because official updates for the original mod concluded at version 1.21.8, this pack targets the modern continuation fork, **Create Fly**, for newer releases. 
+
+### Confirmed Minecraft Versions
+* 26.1.2 (via Create Fly)
+* 1.21.11 (via Create Fly)
+* 1.21.10 (via Create Fly)
+* 1.21.8 (via Official Create Mod)
+
+### Legacy Version Support
+While these are the officially provided builds, earlier versions of the original Create Mod are structurally compatible. The datapack can be manually ported to older versions by adjusting the metadata and recipe formats according to the specifications outlined in the repository wiki.
+
 ## Recipe Unlocking & The Recipe Book
 
 By default in Minecraft, custom recipes act like "secret recipes"—they will not show up in your Recipe Book until you successfully craft them at least once. 
