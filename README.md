@@ -9,11 +9,39 @@ You don't need to generate new chunks anymore; you can simply craft what you nee
 ## Features
 
 This datapack includes crafting recipes for the following Create mod materials:
-- **Asurine**
-- **Crimsite**
-- **Ochrum**
-- **Veridium**
-- **Zinc** (Added via custom recipes depending on configuration)
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="images/asurine.png" width="350" alt="Asurine Recipe"/><br/>
+<b>Asurine</b>
+</td>
+<td align="center">
+<img src="images/crimsite.png" width="350" alt="Crimsite Recipe"/><br/>
+<b>Crimsite</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="images/ochrum.png" width="350" alt="Ochrum Recipe"/><br/>
+<b>Ochrum</b>
+</td>
+<td align="center">
+<img src="images/veridium.png" width="350" alt="Veridium Recipe"/><br/>
+<b>Veridium</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="images/zinc_ingot_recipe.png" width="350" alt="Zinc Ingot Recipe"/><br/>
+<b>Zinc Ingot</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Installation
 
