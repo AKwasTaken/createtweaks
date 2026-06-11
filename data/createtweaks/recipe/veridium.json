@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stone",
+    "minecraft:green_dye"
+  ],
+  "result": {
+    "id": "create:veridium",
+    "count": 1
+  }
+}

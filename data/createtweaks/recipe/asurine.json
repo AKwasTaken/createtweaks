@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:stone",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "create:asurine",
+    "count": 1
+  }
+}

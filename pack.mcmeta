@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Datapack for Create mod Natural generations",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 101
+  }
+}
