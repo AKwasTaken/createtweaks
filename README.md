@@ -51,6 +51,8 @@ This datapack includes crafting recipes for the following Create mod materials:
 4. Drop the `createtweaks` folder there.
 5. In-game, run the command `/reload` to apply the datapack.
 
+[Modrinth Link](https://modrinth.com/datapack/createtweaks)
+
 ## Supported Versions
 
 The availability of this datapack is tied directly to the specific versions of the base mod available on the platform. Because official updates for the original mod concluded at version 1.21.8, this pack targets the modern continuation fork, **Create Fly**, for newer releases. 
